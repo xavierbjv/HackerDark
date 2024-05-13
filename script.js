@@ -12,7 +12,7 @@ function updateClock() {
     dateElement.textContent = dateString;
 
     // For demonstration purposes, let's assume the location is fixed.
-    const location = "Your Location";
+    const location = "Ecuador";
     locationElement.textContent = location;
 }
 
